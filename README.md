@@ -2,8 +2,7 @@
 
 ## RESUMO EXECUTIVO
 
-**Status:** 3 Mega Projetos criados + 8 Editais Mapeados = R$ 250-300k de potencial
-**Horizonte:** 90 dias (Janeiro-Março 2026)
+**Status:** 6 Mega Projetos criados + 15+ Editais Mapeados = R$ 350-500k+ de potencial (CAR: R$ 24M se qualificado!)**Horizonte:** 90 dias (Janeiro-Março 2026)
 **Responsabilidade:** Kauan Silva (Visão Cultural)
 
 ---
@@ -204,3 +203,73 @@ Candidaturas simultâneas a TODOS 8 editais:
 **Criado:** 22 de janeiro de 2026, 1 AM
 **Versão:** 1.0
 **Próx. Atualização:** 25 de janeiro de 2026
+
+
+
+## 📊 ANÁLISE AMPLIADA: 6 MEGA PROJETOS + 15+ EDITAIS (ATUALIZADO 22 JAN 2026)
+
+### NOVOS PROJETOS ADICIONADOS
+
+**4. 🌟 Casa dos Ogans - Terreiro Ojisé**
+- Orçamento: R$ 380.000 (construção completa)
+- Foco: Infraestrutura habitacional, preservação cultural
+- Impacto: 10+ celebrações anuais, 50+ pessoas hospedadas
+- **Edital Alvo:** CAR Habitacional Rural (3.000 casas - ABERTO até 21/01/2026)
+
+**5. ☀️ Projeto Sustentável SOLAR**
+- Orçamento: R$ 240.000 (45 kW, 227k kWh/ano)
+- Foco: Energia renovável, redução de carbono
+- Impacto: 8.3 anos ROI, -80 tonCO2/ano
+- **Editais Alvo:** Statkraft SOLAR + BNDES Verde + Raizen Socioambientais
+
+**6. 🌿 Jardim Medicinal Ojisé**
+- Orçamento: R$ 145.000 (agroecologia + pesquisa)
+- Foco: 80+ plantas medicinais, documentação científica
+- Impacto: 100%+ ROI em 12 meses, 15 educadores multiplicadores
+- **Editais Alvo:** CAR Produtor Quilombola + CGMET (Memória) + PNAB Cultura Viva
+
+### EDITAIS DESCOBERTOS - PRIORITÁRIOS AGORA
+
+**🚨 EDITAL CAR BAHIA - SUPER OPORTUNIDADE**
+- Valor: R$ 24.000.000 (maior edital)
+- Seleção: 70 projetos (35 quilombolas + 35 indígenas)
+- **Prazo:** 12 JAN - 11 FEV 2026 (AINDA ABERTO!)
+- Plataforma: data.car.ba.gov.br/smi
+- - Investimento p/projeto (Média): R$ 340.000
+- Contato: bahiaqueproduzealimenta@car.ba.gov.br | (71) 3115-3941
+- **ESTRATÉGIA:** Formar coletivo quilombola como co-executor dos 6 projetos
+
+### MATRIZ DE OPORTUNIDADES: MATRIZ R$
+
+| Edital | Valor | Deadline | Projetos | Viabilidade |
+|--------|-------|----------|----------|-------------|
+| CAR Quilombos/Indígenas | R$ 24M | 11 FEV | Fossa, Terreiros, Jardim, Casa | 🟢 ALTA (se quilombola) |
+| Fundo Brasil | R$ 1M | 06 MAR | Todos | 🟢 ALTA |
+| CGMET (Memória) | R$ 100k | Aberto | Biblioteca, Jardim | 🟢 ALTA |
+| Statkraft | R$ 80k | Aberto | SOLAR, Terreiros | 🟢 ALTA |
+| Raizen Socioamb | R$ 400k | Aberto | Fossa, Terreiros, SOLAR | 🟢 ALTA |
+| CESE Cerrado | Variável | Aberto | Fossa, Terreiros, Jardim | 🟢 MÉDIA |
+
+**TOTAL POTENCIAL SE APROVADO CAR: R$ 24M (vira mega-rede)**
+**TOTAL POTENCIAL REALISTA (3-4 editais): R$ 1.2M - 1.5M**
+
+### CRONOGRAMA DE EXECUÇÃO (IMMEDIATO)
+
+**HOJE (22 JAN):**
+✅ 1. VALIDAÇÃO CRUC IAL: Terreiro Ojisé é quilombola ou trabalha com comunidade quilombola?
+✅ 2. Contatar bahiaqueproduzealimenta@car.ba.gov.br para esclarecer elegibilidade
+✅ 3. Preparar Manifestação de Interesse (SMI CAR)
+
+**ATÉ 31 JAN:**
+✅ Submeter 2-3 candidaturas CAR (fossa, terreiros, jardim)
+✅ Contatar Fundo Brasil
+✅ Preparar pitch Statkraft/SOLAR
+
+**FEVEREIRO:**
+✅ Monitorar resultado CAR (14 ABR 2026)
+✅ Submeter Fundo Brasil (ATÉ 06 MAR)
+✅ Iniciar CGMET (sem prazo urgente)
+
+---
+
+**✅ CONCLUSÃO:** Esta atualização amplia as oportunidades de financiamento de R$ 250k para R$ 24M+ com estratégia CAR. A prioridade imediata é confirmar o status quilombola/indígena e submeter candidaturas até 11 FEV 2026.    
