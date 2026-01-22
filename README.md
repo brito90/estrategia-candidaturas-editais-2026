@@ -3,7 +3,7 @@
 ## RESUMO EXECUTIVO
 
 **Status:** 6 Mega Projetos criados + 15+ Editais Mapeados = R$ 350-500k+ de potencial (CAR: R$ 24M se qualificado!)**Horizonte:** 90 dias (Janeiro-Março 2026)
-**Responsabilidade:** Kauan Silva (Visão Cultural)
+**Responsabilidade:** Kauan Santigao (Visão Cultural)
 
 ---
 
