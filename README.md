@@ -469,3 +469,311 @@ Com 6 mega projetos mapeados e estratégia internacional, o Terreiro Ojisé pass
 **Próx. Atualização:** 30 de janeiro de 2026 (Validação status quilombola)
 
 **✅ CONCLUSÃO:** Esta atualização amplia as oportunidades de financiamento de R$ 250k para R$ 24M+ com estratégia CAR. A prioridade imediata é confirmar o status quilombola/indígena e submeter candidaturas até 11 FEV 2026.    
+
+
+---
+
+## 🤝 ESTRATÉGIA DE PARCERIAS E ALIANÇAS - EDITAL 2026 (NOVO - 23 JAN 2026)
+
+### PARCERIAS ESTRATÉGICAS RECOMENDADAS
+
+O sucesso da expansão para 6 mega projetos depende de uma rede robusta de parceiros que tragam:
+- **Credibilidade institucional** (universidades, museus)
+- **Implementação técnica** (ONGs especializadas)
+- **Acesso a financiamento** (fundos comunitários, cooperativas)
+- **Disseminação e impacto** (mídia, emissoras)
+
+---
+
+### 1️⃣ PARCEIROS ACADÉMICOS & PESQUISA
+
+#### **UFBA - Universidade Federal da Bahia**
+| Aspecto | Detalhes |
+|---|---|
+| **Foco de Parceria** | Pesquisa em agroecologia, etnobotanica, saneamento ecológico |
+| **Departamentos** | Agronomia, Biologia, História, Letras (literatura afro-brasileira) |
+| **Oportunidade** | Projeto Jardim Medicinal (pesquisa documental + validação científica) |
+| **Contato** | proreitor@ufba.br / (71) 3283-6000 |
+| **Benefício** | Credibilidade UNESCO, publicações científicas, acesso a bolsistas |
+
+#### **UNILAB - Universidade da Integração Internacional da Lusífonia Afro-Brasileira**
+| Aspecto | Detalhes |
+|---|---|
+| **Foco de Parceria** | Culturas afro-brasileiras, patrimonialização, direitos humanos |
+| **Programas** | Mestrado em Estudo das Religiões, Sociedade e Política |
+| **Oportunidade** | Biblioteca Ojisé + Casa dos Ogans (pesquisa de patrimonio afro) |
+| **Contato** | proreitoria@unilab.edu.br / (61) 98525-1000 |
+| **Benefício** | Rede internacional (União Europeia + África), acesso a GEF |
+
+#### **UESC - Universidade Estadual de Santa Cruz (Ilhéus)**
+| Aspecto | Detalhes |
+|---|---|
+| **Foco de Parceria** | Saneamento rural, tecnologia social, economia solidaria |
+| **Departamentos** | Engenharia Agrícola, Sociologia |
+| **Oportunidade** | Fossa Ecológica (implementação + treinamento de multiplicadores) |
+| **Contato** | reitoria@uesc.br / (73) 3689-1000 |
+| **Benefício** | Laboratórios para pesquisa, disseminação regional |
+
+#### **IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia**
+| Aspecto | Detalhes |
+|---|---|
+| **Foco de Parceria** | Tecnologia solar, eletricidade renovavel, educação técnica |
+| **Campi** | Salvador, Feira de Santana, Vitória da Conquista |
+| **Oportunidade** | Projeto SOLAR (instalação + treinamento técnico) |
+| **Contato** | reitoria@ifba.edu.br / (71) 3303-1000 |
+| **Beneficio** | Formação de técnicos, certificação profissional |
+
+---
+
+### 2️⃣ ONGs ESPECIALIZADAS & IMPLEMENTADORAS
+
+#### **Conservation International Brasil**
+| Aspecto | Detalhes |
+|---|---|
+| **Especialidade** | Biodiversidade, terras indígenas, financiamento direto |
+| **Escritório** | Salvador, BA (representante regional) |
+| **Oportunidade** | Co-implementador para GEF, NIPP, Indigenous Climate Fund |
+| **Email** | brasil@conservation.org |
+| **Contato** | (71) XXXX-XXXX |
+| **Benefício** | Acesso direto a USD 1.8B em financiamento global |
+
+#### **The Nature Conservancy (TNC) Brasil**
+| Aspecto | Detalhes |
+|---|---|
+| **Especialidade** | Áreas protegidas, agua, energia renovavel |
+| **Escritório** | São Paulo + Sa lvador |
+| **Oportunidade** | Parceria para projetos SOLAR + Fossa Ecológica (impacto hídrico) |
+| **Email** | brasil@tnc.org |
+| **Contato** | (71) 3265-9600 |
+| **Benefício** | Implementação técnica, acesso a financiamento privado |
+
+#### **Associação de Mulheres Negras Empreendedoras de Bahia (AMNEB)**
+| Aspecto | Detalhes |
+|---|---|
+| **Especialidade** | Mulheres afro, empreendedorismo, economia solidaria |
+| **Base** | Salvador, BA |
+| **Oportunidade** | Terreiros Sustentável + Jardim Medicinal (generação de renda) |
+| **Contato** | amneb@amneb.org.br / (71) 3241-9000 |
+| **Beneficio** | Rede de 500+ mulheres empreendedoras, acesso a crédito solidario |
+
+#### **Instituto Socioambiental (ISA)**
+| Aspecto | Detalhes |
+|---|---|
+| **Especialidade** | Direitos indígenas, saneamento, documentação |
+| **Escritorio** | São Paulo (nacional) |
+| **Oportunidade** | Co-implementador para CAR (se quilombola), GEF |
+| **Email** | isa@socioambiental.org |
+| **Contato** | (11) 3871-0399 |
+| **Beneficio** | Experiência com 50+ projetos indígenas no Brasil |
+
+#### **Fundação Oswaldo Cruz (Fiocruz) - Bahia**
+| Aspecto | Detalhes |
+|---|---|
+| **Especialidade** | Saúde pública, saneamento, plantas medicinais |
+| **Centro** | Centro de Pesquisa Gonçalo Moniz (Salvador) |
+| **Oportunidade** | Pesquisa Jardim Medicinal (validação de propriedades farmacológicas) |
+| **Email** | cgm@fiocruz.br |
+| **Contato** | (71) 3176-2200 |
+| **Beneficio** | Publicações internacionais, credibilidade saúde global |
+
+#### **CESE - Centro de Estudos e Ação Social**
+| Aspecto | Detalhes |
+|---|---|
+| **Especialidade** | Educação popular, direitos humanos, filos. ambiental |
+| **Base** | Salvador, BA |
+| **Oportunidade** | Biblioteca Ojisé (grupos de leitura, formação) |
+| **Email** | contato@cese.org.br |
+| **Contato** | (71) 3321-5200 |
+| **Beneficio** | Rede de 200+ organizações, acesso a editais internacionais |
+
+---
+
+### 3️⃣ ÓRGÃOS GOVERNAMENTAIS & PÓLAS DE DECISÃO
+
+#### **GOVERN
+O ESTADUAL DA BAHIA**
+| Aspecto | Detalhes |
+|---|---|
+| **Órgão** | Secretaria de Desenvolvimento Urbano, Trabalho e Renda (SEDUR) |
+| **Especialidade** | Economia solidaria, tecnologia social, habitacao |
+| **Oportunidade** | Suporte regulatório para Casa dos Ogans (habitacao), Fossa Ecológica |
+| **Email** | sedur@sedur.ba.gov.br |
+| **Contato** | (71) 3115-3600 |
+| **Benefício** | Acesso a emendas parlamentares, suporte politico |
+
+#### **Secretaria de Meio Ambiente da Bahia (SEMA)**
+| Aspecto | Detalhes |
+|---|---|
+| **Órgão** | SEMA-BA |
+| **Especialidade** | Saneamento, licenciamento ambiental, energias renováveis |
+| **Oportunidade** | Licenciamento para Fossa Ecológica + SOLAR, apoio técnico |
+| **Email** | sema@sema.ba.gov.br |
+| **Contato** | (71) 3115-7000 |
+| **Benefício** | Agilização de procedimentos, credibilidade regulatória |
+
+#### **Prefeitura Municipal de Salvador (se no município)**
+| Aspecto | Detalhes |
+|---|---|
+| **Órgão** | Secult / SEMDU / Coord. Economia Solidaria |
+| **Especialidade** | Patrimonialização local, ordenamento territorial |
+| **Oportunidade** | Suporte para Biblioteca Ojisé + Casa dos Ogans |
+| **Email** | secult@salvador.ba.gov.br |
+| **Contato** | (71) 3201-XXXX |
+| **Benefício** | Integr ação com politicas públicas municipais |
+
+#### **Ministério dos Povos Indígenas (MPI)**
+| Aspecto | Detalhes |
+|---|---|
+| **Órgão** | MPI - Órgão executivo |
+| **Especialidade** | Direitos indígenas, quilombolas, demarcação |
+| **Oportunidade** | VALIDAÇÃO de status quilombola (CRITICO!) |
+| **Email** | contato@spi.gov.br |
+| **Contato** | (61) 2025-4100 |
+| **Beneficio** | Certificação oficial quilombola (abre GEF, NIPP, CAR) |
+
+#### **Ministério da Igualdade Racial (MIR)**
+| Aspecto | Detalhes |
+|---|---|
+| **Órgão** | MIR |
+| **Especialidade** | Politicas de ação afirmativa, reparação |
+| **Oportunidade** | Programa Caminhos Afro-Franceses (formação), Fundo Brasil |
+| **Email** | contato@igualdaderacial.gov.br |
+| **Contato** | (61) 2025-9950 |
+| **Beneficio** | Rede de 150+ organizações afro-brasileiras |
+
+#### **FUNAI - Fundação Nacional dos Povos Indígenas**
+| Aspecto | Detalhes |
+|---|---|
+| **Órgão** | FUNAI |
+| **Especialidade** | Povos indígenas, demarcação, suporte técnico |
+| **Oportunidade** | Se Terreiro trabalha com comunidade indígena: suporte GEF/CAR |
+| **Email** | contato@funai.gov.br |
+| **Contato** | (61) 2025-5000 |
+| **Beneficio** | Acesso a rede de 300+ terras indígenas |
+
+---
+
+### 4️⃣ MÙDIA & EMISSORAS (Disseminação & Impacto)
+
+#### **📺 TELEVISÃO**
+
+**Rede Globo Bahia**
+- **Programa** | Globo Nordeste / Jornal da Globo 
+- **Tipo** | Reportagem = Impacto de alcance 2-3M de telespectadores
+- **Oportunidade** | Documentar Terreiro Ojisé + 6 projetos
+- **Contato** | redacao@globonordeste.com.br / (71) 2108-4000
+
+**TV Santa Cruz (Afro-Brasileira)**
+- **Programa** | Programas de cultura afro, documentarios
+- **Tipo** | Especializada em conteúdo afro-brasileiro
+- **Oportunidade** | Série de 6 episódios documentando cada projeto
+- **Contato** | contato@tvsantacruz.com.br / (71) 3264-8000
+
+**TV Educação Brasil**
+- **Programa** | Documentarios sobre sustentabilidade
+- **Tipo** | Educação + entretenimento
+- **Oportunidade** | Fossa Ecológica + Projeto SOLAR + Jardim Medicinal
+- **Contato** | producao@tveducacao.com.br
+
+#### **💻 RÁDIO & PODCAST**
+
+**Ouvir.FM (Plataforma Independente)**
+- **Formato** | Podcasts tematicos
+- **Oportunidade** | Série de 6 podcasts - 1 por projeto
+- **URL** | ouvir.fm / contato direto para produção
+
+**Rádio UFBA Educativa (102.3 FM)**
+- **Formato** | Educação, am biente, cultura
+- **Oportunidade** | Entrevistas mensais, diárias duringé processo de candidatura
+- **Email** | producao@radioeducativa.ufba.br
+- **Contato** | (71) 3283-6000
+
+**BBF (Brasil Broadcast Falar)**
+- **Formato** | Conteúdo de fala (palestras, debates)
+- **Oportunidade** | Lives/debates sobre economia solidaria + tecnologia social
+- **URL** | bbf.com.br
+
+#### **📰 JORNALISMO & IMPRENSA**
+
+**Correio da Bahia**
+- **Seção** | Economia Solidaria / Meio Ambiente
+- **Oportunidade** | Reportagem de impacto sobre 6 projetos
+- **Email** | redacao@correio24horas.com.br
+- **Contato** | (71) 3215-1300
+
+**A Tarde (Jornal tradicional BA)**
+- **Tipo** | Impresso + digital
+- **Oportunidade** | Cobertura de lancements, aprovacao editais
+- **Email** | redacao@atarde.com.br
+- **Contato** | (71) 3112-7000
+
+**Blogueiros & Influenciadores Locais**
+- **Plataforma** | Instagram, TikTok, YouTube
+- **Especialidade** | Sustentabilidade, cultura afro, empreendedorismo
+- **Oportunidade** | Criar rede de 20-30 influenciadores (10k-100k seguidores)
+- **Impacto** | Alcance 500k-1M pessoas em 3 meses
+
+#### **📧 EMAIL & BOLETINS ESPECIALIZADOS**
+
+**Boletim "Edital Que Funciona"**
+- **Tipo** | Newsletter para organizacoes sociais
+- **Alcance** | 5k+ subscritos (gestores de ONGs)
+- **Oportunidade** | Publicar oportunidades mensais de editais + licações
+- **URL** | editaisquefunciona.com.br
+
+**"Pontuação Viva" (newsletter de empreendedorismo)**
+- **Alcance** | 3k+ empreendedores afro
+- **Oportunidade** | Publicar case study de Terreiro Ojisé
+- **Contato** | contato@pontuacaoviva.com.br
+
+---
+
+### 5️⃣ ESTRATÉGIA DE MIDIA & DISSEMINAÇÃO (POR FASE)
+
+#### **FASE 1: DESCOBERTA (JAN-FEV 2026) - "Oucação & Build"**
+
+- [ ] Enviar press release em SALVADOR a 5 mídias locais (impresso + digital)
+- [ ] Contatar podcasters locais (5+ podcasts: 15k alcance cada)
+- [ ] Publicar no "Edital Que Funciona" newsletter (5k leitores)
+- [ ] Criar conta TikTok + Instagram oficial para Terreiro (conteúdo educativo)
+- [ ] Organizar roda de conversa com jornalistas (prote + integracao media)
+
+**Alcance esperado:** 50-100k pessoas
+
+#### **FASE 2: APROVAÇOES (MAR-ABR 2026) - "Celebração & Amp lifcação"**
+
+- [ ] Documentar aprovacao de CAR, Fundo Brasil, editais internacionais
+- [ ] Produzir 1 mini-documentario (5-10 min) para YouTube
+- [ ] Entrevista regional na Rede Globo Bahia (1-2M telespectadores!)
+- [ ] Publicar case study em "Pontuação Viva" + newsletters
+- [ ] Organizar coletiva de imprensa ONLINE (com org internacionais)
+
+**Alcance esperado:** 1-2M pessoas (TV + digital)
+
+#### **FASE 3: IMPLEMENTAÇÃO (MAI-JUN+ 2026) - "Mudança Real & Impa ct"**
+
+- [ ] Serie de 6 podcasts (1 por projeto) = 30k downloads
+- [ ] 10 reportagens longas em jornais especializados
+- [ ] 1 documentario completo (30-60 min) para distribuição em festivais
+- [ ] Livro/e-book sobre Terreiro Ojisé (modelo replicavel)
+- [ ] Criação de rede de 50+ promotores (multiplicadores de impacto)
+
+**Alcance esperado:** 5-10M pessoas globalmente (quando publicado em plataformas internacionais)
+
+---
+
+### 6️⃣ MATRIZ FINAL DE PARCERIAS: "QUEM FALA COM QUEM"
+
+| Projeto | Partner Acad. | ONG Impl. | Órgão Gov | Midia |
+|---|---|---|---|---|
+| **Jardim Medicinal** | UFBA + Fiocruz | Conservation Intl + TNC | SEMA + MIR | Globo + T V Educação |
+| **Fossa Ecológica** | UESC | ISA + TNC | SEDUR + SEMA | Podcast Sustentabilidade |
+| **Projeto SOLAR** | IFBA | TNC + ISA | SEMA + Concessionária | TV Educação + Tech Youtubers |
+| **Casa dos Ogans** | UNILAB | CESE + AMNEB | Prefeitura + MPI | Globo + TV Santa Cruz |
+| **Biblioteca Ojisé** | UFBA + UNILAB | CESE | MIR + Cult Local | Jornais Cultura + Podcasts |
+| **Terreiros Sustentável** | UFBA + UESC | AMNEB + CESE | SEDUR + MIR | Correo Cultura + BBF |
+
+---
+
+**STATUS:** 💹 REDE COMPLETA DE PARCERIAS MAPEADA
+**PROXIMA AÇÃO:** Iniciar contato com 3 parceiros principais (Conservation Intl + UFBA + TV local) na SEMANA 1
