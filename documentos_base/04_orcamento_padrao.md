@@ -1,14 +1,16 @@
-# Orçamento Padrão: Mega Projetos
+# Orçamento Padrão 2026: Mega Projetos
 
-## Tabela de Custos Estimados
+## Tabela de Custos Estimados (Referência CAR R$ 350k)
 
 | Item | Descrição | Valor Estimado (R$) |
 | --- | --- | --- |
-| Saneamento (Fossa) | Materiais e mão de obra para tanques | 150.000 |
-| Cultura (Terreiros) | Oficinas e registro | 100.000 |
-| Educação (Biblioteca)| Livros e infraestrutura | 50.000 |
-| Energia (Solar) | Painéis e instalação | 200.000 |
-| **Total Estimado** | | **500.000** |
+| Saneamento (Fossa) | Tanques de evapotranspiração + oficina comunitária | 120.000 |
+| Cultura (Terreiros) | Documentação, registro e eventos de memória | 100.000 |
+| Educação (Biblioteca)| Aquisição de acervo + mobiliário + digitalização | 60.000 |
+| Jardim Medicinal | Estruturação de canteiros + pesquisa etnobotânica | 70.000 |
+| **Total Estimado** | | **350.000** |
 
-## Observações
-[Ajustar valores conforme o edital específico]
+## Observações Importantes
+- Este orçamento está ajustado ao **teto de R$ 350.000,00** por Manifestação de Interesse do edital **CAR/Bahia que Produz e Alimenta 2026**.
+- Valores podem ser redistribuídos conforme a prioridade de cada edital específico.
+
