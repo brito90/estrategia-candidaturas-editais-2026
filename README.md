@@ -1005,6 +1005,21 @@ Além da captação de editais, existem **8 vetores de inovacião** que podem am
 
 ---
 
+## 🛠️ KIT BASE 2026 (Documentos Coringa)
+
+Estes documentos contêm a base textual para todas as candidaturas deste ano:
+
+- [📄 Institucional Visão Cultural + Terreiro Ojisé](documentos_base/01_institucional_visao_cultural_terreiro_ojise.md)
+- [📄 Justificativa Padrão do Território](documentos_base/02_justificativa_padrao_territorio.md)
+- [📄 Metodologia Padrão Mega Projetos](documentos_base/03_metodologia_padrao_mega_projetos.md)
+- [📄 Orçamento Padrão 6 Projetos](documentos_base/04_orcamento_padrao.md)
+
+---
+### 📁 Pastas de Trabalho
+- [/documentos_base](documentos_base/): Repositório de textos coringa.
+- [/propostas](propostas/): Candidaturas enviadas e em rascunho.
+
+
 ### 🏆 INDICADORES-CHAVE DE SUCESSO (KPIs)
 
 | KPI | Meta 2026 | Meta 2027 | Meta 2028 |
