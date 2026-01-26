@@ -1037,3 +1037,4 @@ Estes documentos contêm a base textual para todas as candidaturas deste ano:
 
 **ESTADO:** 🚀 INOVACAO EM EXPANSAO
 **PROXIMA ETAPA:** Validar top 3 ideias (carbon credits + turismo + cursos online) em FEVEREIRO
+ 
