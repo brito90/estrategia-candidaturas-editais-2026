@@ -1,25 +1,35 @@
-# Manifestação de Interesse CAR: Complexo Ojisé
+# Manifestação de Interesse: Complexo Sustentável Ojisé (Editais CAR 2026)
 
-## 1. Identificação do Território
-**Nome:** Terreiro Ojisé
-**Localização:** Salvador, Bahia
-**Comunidade:** Tradicional / Quilombola (A ser validado)
+Este documento constitui a base técnica para a submissão da **Manifestação de Interesse (MI)** ao Edital CAR/Projeto Bahia que Produz e Alimenta n° 004/2025 – Quilombos da Bahia.
 
-## 2. Dados do Edital (Referência 2026)
-- **Edital:** Quilombos da Bahia / Bahia que Produz e Alimenta
-- **Valor Solicitado:** R$ 350.000,00 (Teto máximo por MI)
-- **Prazo de Submissão:** 11/02/2026
-- **Plataforma:** data.car.ba.gov.br/smi
+---
 
-## 3. Eixos de Atuação Integrada
-- **Eixo 1 (Saneamento):** Fossa Ecológica (Tanque de Evapotranspiração) - Implementação técnica e oficinas.
-- **Eixo 2 (Cultura):** Terreiros Sustentável (Registro e Memória) - Documentação agroecológica e ancestral.
-- **Eixo 3 (Educação):** Biblioteca Ojisé e Jardim Medicinal - Espaço de leitura e catalogação de espécies.
+## 1. DADOS DA ORGANIZAÇÃO PROPONENTE
+- **Nome:** Associação Beneficente [NOME A VALIDAR] do Terreiro Ojisé
+- **CNPJ:** [A INSERIR]
+- **Território de Identidade:** Metropolitano de Salvador (Salvador, Bahia)
+- **Certificação Quilombola:** Certidão da Fundação Cultural Palmares (FCP) - [A VALIDAR STATUS]
 
-## 4. Justificativa Estratégica
-O projeto visa combater o racismo ambiental através da autonomia no saneamento básico e energia, preservando a memória quilombola/afro-religiosa do território. A integração dos 3 eixos maximiza o investimento de R$ 350k, transformando o terreiro em um centro de referência produtiva.
+## 2. OBJETO DA PROPOSTA
+Implementação do **Complexo Agroecológico e Cultural Ojisé**, integrando saneamento básico sustentável, restauração da biodiversidade medicinal e preservação da memória quilombola para dinamização econômica da comunidade.
 
-## 5. Resultados Esperados (KPIs)
-- Instalação de sistemas de fossa ecológica para X famílias.
-- 01 Jardim Medicinal catalogado com 80+ espécies.
-- Digitalização parcial do acervo da Biblioteca Ojisé.
+## 3. VALOR TOTAL SOLICITADO
+**R$ 350.000,00 (Trezentos e cinquenta mil reais)**
+
+### Resumo do Investimento:
+1. **Infraestrutura Sustentável (Fossa Ecológica):** R$ 137.500
+2. **Segurança Alimentar e Jardim Medicinal:** R$ 98.000
+3. **Equipamento e Memorial (Biblioteca Ojisé):** R$ 114.500
+
+## 4. JUSTIFICATIVA E DINAMIZAÇÃO ECONÔMICA
+A proposta ataca o déficit de saneamento e a perda de biodiversidade em territórios tradicionais. A implementação das Fossas Ecológicas reduz gastos com saúde pública e preserva o lençol freático para o Jardim Medicinal. Este jardim, por sua vez, servirá como base para a produção de fitoterápicos e mudas, gerando renda direta para as famílias da comunidade através da economia solidária.
+
+## 5. IMPACTOS ESPERADOS (KPIs)
+- **Saneamento:** 01 sistema central de tratamento (BET) atendendo o complexo e áreas adjacentes.
+- **Biodiversidade:** Restauração de 1.200m² com 80+ espécies de plantas medicinais catalogadas.
+- **Memória:** Digitalização de 500+ títulos e documentos históricos na Biblioteca Ojisé.
+- **Renda:** Capacitação de 20 jovens em tecnologias sociais e agroecologia.
+
+---
+**Prazo Limite para Envio:** 11/02/2026 via [data.car.ba.gov.br/smi](https://data.car.ba.gov.br/smi)
+**Status Atual:** Documento base pronto. Necessária validação final do CNPJ e Certidão FCP.
